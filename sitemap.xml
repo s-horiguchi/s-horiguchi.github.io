@@ -15,6 +15,36 @@
   </url>
   
   <url>
+    <loc>/publications/theoimm2019/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/qbio_caravan2019/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/jsmb2019/</loc>
+    <lastmod>2019-09-14T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/bachelor_thesis/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/qbio_annu2019/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>/publications/nprot2019/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
@@ -23,6 +53,12 @@
   <url>
     <loc>/publications/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/wbai2017/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -52,6 +88,11 @@
   </url>
   
   <url>
+    <loc>/tags/theory/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/autonomous-vehicle/</loc>
     <lastmod>2019-12-11T12:41:05-05:00</lastmod>
   </url>
@@ -67,12 +108,17 @@
   </url>
   
   <url>
-    <loc>/tags/biology/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/tags/nervous-system/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/brain/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/informatics/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   

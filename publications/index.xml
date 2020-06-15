@@ -12,12 +12,78 @@
     
     
     <item>
+      <title>Theoretical Immunology</title>
+      <link>/publications/theoimm2019/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/theoimm2019/</guid>
+      <description>堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. 第４回理論免疫学ワークショップ. 大分.
+SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. The 4th Workshop on Theoretical Immunology. Oita, Japan.
+oral, not reviewed</description>
+    </item>
+    
+    <item>
+      <title>Q-bio Caravan 2019</title>
+      <link>/publications/qbio_caravan2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/qbio_caravan2019/</guid>
+      <description>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. 定量生物学の会北海道キャラバン2019. 北海道.
+SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems. Japanese Society for Quantitative Biology Caravan 2019. Hokkaido, Japan.
+poster, not reviewed</description>
+    </item>
+    
+    <item>
+      <title>JSMB 2019</title>
+      <link>/publications/jsmb2019/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/jsmb2019/</guid>
+      <description>堀口修平, 小林徹也. (2019) 強化学習における細胞増殖的ダイナミクスの出現. 数理生物学会年会. 東京.
+SA. Horiguchi, TJ. Kobayashi. (2019) Cell Proliferation Dynamics in Reinforcement Learning. 2019 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Tokyo, Japan.
+poster, not reviewed</description>
+    </item>
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>/publications/bachelor_thesis/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/bachelor_thesis/</guid>
+      <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村泰伸
+SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle-type Instability. Bachelor Thesis. Division of Biophysical Engineering, Department of Systems Science, School of Engineering Science, Osaka University. Supervisor: Taishin Nomura</description>
+    </item>
+    
+    <item>
+      <title>Q-bio Annual Meeting 2019</title>
+      <link>/publications/qbio_annu2019/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/qbio_annu2019/</guid>
+      <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪.
+SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese Society for Quantitative Biology. Osaka, Japan.
+poster, not reviewed</description>
+    </item>
+    
+    <item>
       <title>Nature Protocols 2019</title>
       <link>/publications/nprot2019/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publications/nprot2019/</guid>
-      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9</description>
+      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9
+理研プレスリリース (Press Release in Japanese)</description>
+    </item>
+    
+    <item>
+      <title>WBAI Wakate Kansai</title>
+      <link>/publications/wbai2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wbai2017/</guid>
+      <description>堀口修平. (2017) 動物とロボットの空間認識. 全脳アーキテクチャ若手の会 関西異分野交流会. 大阪.
+SA. Horiguchi. (2017) Spatial Perception in Animals and Robots. Cross-disciplinary Exchange Meeting in Kansai, WBAI Wakate. Osaka, Japan.
+oral, not reviewed</description>
     </item>
     
   </channel>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nervous system on Shuhei A. Horiguchi</title>
+    <link>/tags/nervous-system/</link>
+    <description>Recent content in nervous system on Shuhei A. Horiguchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nervous-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>/publications/bachelor_thesis/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/bachelor_thesis/</guid>
+      <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村泰伸
+SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle-type Instability. Bachelor Thesis. Division of Biophysical Engineering, Department of Systems Science, School of Engineering Science, Osaka University. Supervisor: Taishin Nomura</description>
+    </item>
+    
+    <item>
+      <title>Nature Protocols 2019</title>
+      <link>/publications/nprot2019/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/nprot2019/</guid>
+      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9
+理研プレスリリース (Press Release in Japanese)</description>
+    </item>
+    
+    <item>
+      <title>WBAI Wakate Kansai</title>
+      <link>/publications/wbai2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/wbai2017/</guid>
+      <description>堀口修平. (2017) 動物とロボットの空間認識. 全脳アーキテクチャ若手の会 関西異分野交流会. 大阪.
+SA. Horiguchi. (2017) Spatial Perception in Animals and Robots. Cross-disciplinary Exchange Meeting in Kansai, WBAI Wakate. Osaka, Japan.
+oral, not reviewed</description>
+    </item>
+    
+  </channel>
+</rss>
