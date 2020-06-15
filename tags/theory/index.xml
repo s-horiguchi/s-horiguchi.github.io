@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>immune system on Shuhei A. Horiguchi</title>
-    <link>/tags/immune-system/</link>
-    <description>Recent content in immune system on Shuhei A. Horiguchi</description>
+    <title>theory on Shuhei A. Horiguchi</title>
+    <link>/tags/theory/</link>
+    <description>Recent content in theory on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/immune-system/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,14 +45,24 @@ poster, not reviewed</description>
     </item>
     
     <item>
-      <title>Reinforcement Learning Model of the Immune System</title>
-      <link>/projects/biology/immune_learning/</link>
-      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
+      <title>Bachelor Thesis</title>
+      <link>/publications/bachelor_thesis/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/projects/biology/immune_learning/</guid>
-      <description>Understanding Immune system with Reinforcement Learning Theory.
-Publications:
- Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+      <guid>/publications/bachelor_thesis/</guid>
+      <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村泰伸
+SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle-type Instability. Bachelor Thesis. Division of Biophysical Engineering, Department of Systems Science, School of Engineering Science, Osaka University. Supervisor: Taishin Nomura</description>
+    </item>
+    
+    <item>
+      <title>Q-bio Annual Meeting 2019</title>
+      <link>/publications/qbio_annu2019/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/qbio_annu2019/</guid>
+      <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪.
+SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese Society for Quantitative Biology. Osaka, Japan.
+poster, not reviewed</description>
     </item>
     
   </channel>
