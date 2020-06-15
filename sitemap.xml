@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/projects/biology/</loc>
+    <lastmod>2020-06-05T12:41:05-05:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/robotics/</loc>
+    <lastmod>2019-12-11T12:41:05-05:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/nprot2019/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/immune-system/</loc>
+    <lastmod>2020-06-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-06-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/biology/immune_learning/</loc>
+    <lastmod>2020-06-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-05T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-25T18:03:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/autonomous-vehicle/</loc>
+    <lastmod>2019-12-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maritime-robotx-challenge/</loc>
+    <lastmod>2019-12-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/robotics/ouxt/</loc>
+    <lastmod>2019-12-11T12:41:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biology/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/brain/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <priority>0.9</priority>
+  </url>
+  
+</urlset>

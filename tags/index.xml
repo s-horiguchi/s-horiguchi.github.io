@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shuhei A. Horiguchi</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Shuhei A. Horiguchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>immune system</title>
+      <link>/tags/immune-system/</link>
+      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/immune-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autonomous vehicle</title>
+      <link>/tags/autonomous-vehicle/</link>
+      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/autonomous-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maritime RobotX Challenge</title>
+      <link>/tags/maritime-robotx-challenge/</link>
+      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      
+      <guid>/tags/maritime-robotx-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biology</title>
+      <link>/tags/biology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brain</title>
+      <link>/tags/brain/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/brain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

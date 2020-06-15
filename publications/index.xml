@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shuhei A. Horiguchi</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Shuhei A. Horiguchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nature Protocols 2019</title>
+      <link>/publications/nprot2019/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/nprot2019/</guid>
+      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9</description>
+    </item>
+    
+  </channel>
+</rss>
