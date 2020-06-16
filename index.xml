@@ -2,32 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shuhei A. Horiguchi</title>
-    <link>/</link>
+    <link>https://s-horiguchi.github.io/</link>
     <description>Recent content on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theoretical Immunology</title>
-      <link>/publications/theoimm2019/</link>
+      <link>https://s-horiguchi.github.io/publications/theoimm2019/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/theoimm2019/</guid>
+      <guid>https://s-horiguchi.github.io/publications/theoimm2019/</guid>
       <description>堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. 第４回理論免疫学ワークショップ. 大分.
 SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. The 4th Workshop on Theoretical Immunology. Oita, Japan.
 oral, not reviewed</description>
     </item>
     
     <item>
+      <title>Nature Protocols 2019</title>
+      <link>https://s-horiguchi.github.io/publications/nprot2019/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/nprot2019/</guid>
+      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9
+理研プレスリリース (Press Release in Japanese)</description>
+    </item>
+    
+    <item>
       <title>Q-bio Caravan 2019</title>
-      <link>/publications/qbio_caravan2019/</link>
+      <link>https://s-horiguchi.github.io/publications/qbio_caravan2019/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/qbio_caravan2019/</guid>
+      <guid>https://s-horiguchi.github.io/publications/qbio_caravan2019/</guid>
       <description>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. 定量生物学の会北海道キャラバン2019. 北海道.
 SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems. Japanese Society for Quantitative Biology Caravan 2019. Hokkaido, Japan.
 poster, not reviewed</description>
@@ -35,10 +45,10 @@ poster, not reviewed</description>
     
     <item>
       <title>JSMB 2019</title>
-      <link>/publications/jsmb2019/</link>
+      <link>https://s-horiguchi.github.io/publications/jsmb2019/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/jsmb2019/</guid>
+      <guid>https://s-horiguchi.github.io/publications/jsmb2019/</guid>
       <description>堀口修平, 小林徹也. (2019) 強化学習における細胞増殖的ダイナミクスの出現. 数理生物学会年会. 東京.
 SA. Horiguchi, TJ. Kobayashi. (2019) Cell Proliferation Dynamics in Reinforcement Learning. 2019 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Tokyo, Japan.
 poster, not reviewed</description>
@@ -46,41 +56,40 @@ poster, not reviewed</description>
     
     <item>
       <title>Bachelor Thesis</title>
-      <link>/publications/bachelor_thesis/</link>
+      <link>https://s-horiguchi.github.io/publications/bachelor_thesis/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/bachelor_thesis/</guid>
+      <guid>https://s-horiguchi.github.io/publications/bachelor_thesis/</guid>
       <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村泰伸
 SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle-type Instability. Bachelor Thesis. Division of Biophysical Engineering, Department of Systems Science, School of Engineering Science, Osaka University. Supervisor: Taishin Nomura</description>
     </item>
     
     <item>
       <title>Q-bio Annual Meeting 2019</title>
-      <link>/publications/qbio_annu2019/</link>
+      <link>https://s-horiguchi.github.io/publications/qbio_annu2019/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/qbio_annu2019/</guid>
+      <guid>https://s-horiguchi.github.io/publications/qbio_annu2019/</guid>
       <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪.
 SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese Society for Quantitative Biology. Osaka, Japan.
 poster, not reviewed</description>
     </item>
     
     <item>
-      <title>Nature Protocols 2019</title>
-      <link>/publications/nprot2019/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Nature Neuroscience 2018</title>
+      <link>https://s-horiguchi.github.io/publications/nneuro2018/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/nprot2019/</guid>
-      <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9
-理研プレスリリース (Press Release in Japanese)</description>
+      <guid>https://s-horiguchi.github.io/publications/nneuro2018/</guid>
+      <description>Murakami, T.C., Mano, T., Saikawa, S., Horiguchi S.A. et al. A three-dimensional single-cell-resolution whole-brain atlas using CUBIC-X expansion microscopy and tissue clearing. Nat Neurosci 21, 625–637 (2018). https://doi.org/10.1038/s41593-018-0109-1</description>
     </item>
     
     <item>
       <title>WBAI Wakate Kansai</title>
-      <link>/publications/wbai2017/</link>
+      <link>https://s-horiguchi.github.io/publications/wbai2017/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/wbai2017/</guid>
+      <guid>https://s-horiguchi.github.io/publications/wbai2017/</guid>
       <description>堀口修平. (2017) 動物とロボットの空間認識. 全脳アーキテクチャ若手の会 関西異分野交流会. 大阪.
 SA. Horiguchi. (2017) Spatial Perception in Animals and Robots. Cross-disciplinary Exchange Meeting in Kansai, WBAI Wakate. Osaka, Japan.
 oral, not reviewed</description>
@@ -88,10 +97,10 @@ oral, not reviewed</description>
     
     <item>
       <title>Reinforcement Learning Model of the Immune System</title>
-      <link>/projects/biology/immune_learning/</link>
+      <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
-      <guid>/projects/biology/immune_learning/</guid>
+      <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
       <description>Understanding Immune system with Reinforcement Learning Theory.
 Publications:
  Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
@@ -99,11 +108,29 @@ Publications:
     
     <item>
       <title>OUXT Polaris</title>
-      <link>/projects/robotics/ouxt/</link>
-      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      <link>https://s-horiguchi.github.io/projects/ouxt/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/robotics/ouxt/</guid>
-      <description>OUXT Polaris is a team for the Maritime RobotX Challenge.</description>
+      <guid>https://s-horiguchi.github.io/projects/ouxt/</guid>
+      <description>OUXT Polaris is a team for the Maritime RobotX Challenge.
+I was the team leader on 2018 Challenge at Honolulu. We received judge&amp;rsquo;s special award.
+We were funded by Leave a Nest Co., Ltd. : The Nippon Foundation Marine Engineering Award (第40回リバネス研究費 日本財団海洋工学賞), and seven companies.
+We were also supported by crowdfunding at academist (波風の影響はどうするか？船の自動航行に挑む！)
+ Technical Design Paper  S. Horiguchi*, R. Tanaka, K. Yamada, R. Nakabayashi, et al. Development of a navigation system with high function and high reusability for Maritime RobotX Challenge 2018.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://s-horiguchi.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
     
   </channel>

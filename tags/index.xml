@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shuhei A. Horiguchi</title>
-    <link>/tags/</link>
+    <link>https://s-horiguchi.github.io/tags/</link>
     <description>Recent content in Tags on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>immune system</title>
-      <link>/tags/immune-system/</link>
+      <link>https://s-horiguchi.github.io/tags/immune-system/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
-      <guid>/tags/immune-system/</guid>
+      <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://s-horiguchi.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theory</title>
-      <link>/tags/theory/</link>
+      <link>https://s-horiguchi.github.io/tags/theory/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autonomous vehicle</title>
-      <link>/tags/autonomous-vehicle/</link>
-      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
-      
-      <guid>/tags/autonomous-vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maritime RobotX Challenge</title>
-      <link>/tags/maritime-robotx-challenge/</link>
-      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
-      
-      <guid>/tags/maritime-robotx-challenge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nervous system</title>
-      <link>/tags/nervous-system/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nervous-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brain</title>
-      <link>/tags/brain/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/brain/</guid>
+      <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>informatics</title>
-      <link>/tags/informatics/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://s-horiguchi.github.io/tags/informatics/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/informatics/</guid>
+      <guid>https://s-horiguchi.github.io/tags/informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nervous system</title>
+      <link>https://s-horiguchi.github.io/tags/nervous-system/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/nervous-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brain</title>
+      <link>https://s-horiguchi.github.io/tags/brain/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autonomous vehicle</title>
+      <link>https://s-horiguchi.github.io/tags/autonomous-vehicle/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/autonomous-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maritime RobotX Challenge</title>
+      <link>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</guid>
       <description></description>
     </item>
     

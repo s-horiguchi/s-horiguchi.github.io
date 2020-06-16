@@ -2,23 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>informatics on Shuhei A. Horiguchi</title>
-    <link>/tags/informatics/</link>
+    <link>https://s-horiguchi.github.io/tags/informatics/</link>
     <description>Recent content in informatics on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/informatics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-horiguchi.github.io/tags/informatics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nature Protocols 2019</title>
-      <link>/publications/nprot2019/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://s-horiguchi.github.io/publications/nprot2019/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/nprot2019/</guid>
+      <guid>https://s-horiguchi.github.io/publications/nprot2019/</guid>
       <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9
 理研プレスリリース (Press Release in Japanese)</description>
+    </item>
+    
+    <item>
+      <title>Nature Neuroscience 2018</title>
+      <link>https://s-horiguchi.github.io/publications/nneuro2018/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/nneuro2018/</guid>
+      <description>Murakami, T.C., Mano, T., Saikawa, S., Horiguchi S.A. et al. A three-dimensional single-cell-resolution whole-brain atlas using CUBIC-X expansion microscopy and tissue clearing. Nat Neurosci 21, 625–637 (2018). https://doi.org/10.1038/s41593-018-0109-1</description>
     </item>
     
   </channel>
