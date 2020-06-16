@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Shuhei A. Horiguchi | Q-bio Caravan 2019</title>
-  <meta property="og:title" content="Shuhei A. Horiguchi | Q-bio Caravan 2019" />
+  <title>Shuhei A. Horiguchi | Search Results</title>
+  <meta property="og:title" content="Shuhei A. Horiguchi | Search Results" />
   <meta property="og:image" content="https://s-horiguchi.github.io/img/profile.jpeg" />
-  <meta name="description" content="Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems">
-  <meta property="og:description" content="Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems" />
+  <meta name="description" content="">
+  <meta property="og:description" content="" />
   <meta name="author" content="Shuhei A. Horiguchi">
   
   <link rel="preload" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -81,55 +81,24 @@
 
   <div class="container-fluid p-0">
     
-<nav aria-label="breadcrumb">
-  <ol  class="breadcrumb">
-    
-
-
-
-
-
-<li class="breadcrumb-item">
-  <a href="https://s-horiguchi.github.io/">Shuhei A. Horiguchi</a>
-</li>
-
-
-<li class="breadcrumb-item">
-  <a href="https://s-horiguchi.github.io/publications/">Publications</a>
-</li>
-
-
-<li class="breadcrumb-item active">
-  <a href="https://s-horiguchi.github.io/publications/qbio_caravan2019/">Q-bio Caravan 2019</a>
-</li>
-
-  </ol>
-</nav>
-
-
-
-
-<section class="resume-section p-3 p-lg-5 d-flex d-column content">
-  <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Q-bio Caravan 2019</span></h2>
-    <p><a href="https://q-bio.jp/wiki/Caravan_2019">Link to full Conference</a></p>
-    
-    <p>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. <em>定量生物学の会北海道キャラバン2019</em>. 北海道.</p>
-<p>SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems. <em>Japanese Society for Quantitative Biology Caravan 2019</em>. Hokkaido, Japan.</p>
-<p>poster, not reviewed</p>
-
-    <p class="mt-3">
-    <ul class="tags">
-    
-      <li><a class="tag" href="/tags/immune-system">immune system</a></li>
-    
-      <li><a class="tag" href="/tags/theory">theory</a></li>
-    
-</ul>
-
-    </p>
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" >
+    <form action="https://s-horiguchi.github.io/search/">
+      <input id="search-query" name="s"/>
+    </form>
+    <div id="search-results">
+     <h3>Matching pages</h3>
+    </div>
   </div>
 </section>
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
@@ -152,7 +121,9 @@
     gtag('config', 'UA-169625140-1');
   </script>
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="https://s-horiguchi.github.io/js/search.js"></script>
 
-  
 </body>
 </html>

@@ -2,13 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Shuhei A. Horiguchi</title>
-    <link>/projects/</link>
+    <link>https://s-horiguchi.github.io/projects/</link>
     <description>Recent content in Projects on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://s-horiguchi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reinforcement Learning Model of the Immune System</title>
+      <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
+      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
+      <description>Understanding Immune system with Reinforcement Learning Theory.
+Publications:
+ Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+    </item>
+    
+    <item>
+      <title>OUXT Polaris</title>
+      <link>https://s-horiguchi.github.io/projects/ouxt/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/projects/ouxt/</guid>
+      <description>OUXT Polaris is a team for the Maritime RobotX Challenge.
+I was the team leader on 2018 Challenge at Honolulu. We received judge&amp;rsquo;s special award.
+We were funded by Leave a Nest Co., Ltd. : The Nippon Foundation Marine Engineering Award (第40回リバネス研究費 日本財団海洋工学賞), and seven companies.
+We were also supported by crowdfunding at academist (波風の影響はどうするか？船の自動航行に挑む！)
+ Technical Design Paper  S. Horiguchi*, R. Tanaka, K. Yamada, R. Nakabayashi, et al. Development of a navigation system with high function and high reusability for Maritime RobotX Challenge 2018.</description>
+    </item>
     
   </channel>
 </rss>
