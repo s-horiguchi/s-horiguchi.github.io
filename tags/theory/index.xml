@@ -5,7 +5,7 @@
     <link>https://s-horiguchi.github.io/tags/theory/</link>
     <description>Recent content in theory on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
@@ -17,9 +17,7 @@
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/publications/theoimm2019/</guid>
-      <description>堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. 第４回理論免疫学ワークショップ. 大分.
-SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. The 4th Workshop on Theoretical Immunology. Oita, Japan.
-oral, not reviewed</description>
+      <description>堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. 第４回理論免疫学ワークショップ. 大分. SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. The 4th Workshop</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ oral, not reviewed</description>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/publications/qbio_caravan2019/</guid>
-      <description>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. 定量生物学の会北海道キャラバン2019. 北海道.
-SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems. Japanese Society for Quantitative Biology Caravan 2019. Hokkaido, Japan.
-poster, not reviewed</description>
+      <description>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. 定量生物学の会北海道キャラバン2019. 北海道. SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems.</description>
     </item>
     
     <item>
@@ -39,9 +35,7 @@ poster, not reviewed</description>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/publications/jsmb2019/</guid>
-      <description>堀口修平, 小林徹也. (2019) 強化学習における細胞増殖的ダイナミクスの出現. 数理生物学会年会. 東京.
-SA. Horiguchi, TJ. Kobayashi. (2019) Cell Proliferation Dynamics in Reinforcement Learning. 2019 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Tokyo, Japan.
-poster, not reviewed</description>
+      <description>堀口修平, 小林徹也. (2019) 強化学習における細胞増殖的ダイナミクスの出現. 数理生物学会年会. 東京. SA. Horiguchi, TJ. Kobayashi. (2019) Cell Proliferation Dynamics in Reinforcement Learning. 2019 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Tokyo, Japan. poster, not reviewed</description>
     </item>
     
     <item>
@@ -50,8 +44,7 @@ poster, not reviewed</description>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/publications/bachelor_thesis/</guid>
-      <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村泰伸
-SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle-type Instability. Bachelor Thesis. Division of Biophysical Engineering, Department of Systems Science, School of Engineering Science, Osaka University. Supervisor: Taishin Nomura</description>
+      <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村</description>
     </item>
     
     <item>
@@ -60,9 +53,7 @@ SA. Horiguchi. (2019) Study on Optimal Control for Inverted Pendulum with Saddle
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/publications/qbio_annu2019/</guid>
-      <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪.
-SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese Society for Quantitative Biology. Osaka, Japan.
-poster, not reviewed</description>
+      <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪. SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese</description>
     </item>
     
   </channel>
