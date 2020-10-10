@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2020 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>immune system</title>
       <link>https://s-horiguchi.github.io/tags/immune-system/</link>
-      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory</title>
+      <link>https://s-horiguchi.github.io/tags/theory/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theory</title>
-      <link>https://s-horiguchi.github.io/tags/theory/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
     
