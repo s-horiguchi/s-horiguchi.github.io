@@ -5,11 +5,7 @@
     <link>https://s-horiguchi.github.io/projects/</link>
     <description>Recent content in Projects on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://s-horiguchi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://s-horiguchi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning Model of the Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
@@ -18,7 +14,7 @@
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
       <description>Understanding Immune system with Reinforcement Learning Theory.
 Publications:
- Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+ Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
     </item>
     
     <item>

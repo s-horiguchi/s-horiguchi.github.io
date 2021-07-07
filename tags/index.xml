@@ -6,15 +6,11 @@
     <description>Recent content in Tags on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>immune system</title>
       <link>https://s-horiguchi.github.io/tags/immune-system/</link>
-      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
       <description></description>
@@ -23,7 +19,7 @@
     <item>
       <title>theory</title>
       <link>https://s-horiguchi.github.io/tags/theory/</link>
-      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
@@ -80,6 +76,42 @@
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>in</title>
+      <link>https://s-horiguchi.github.io/tags/in/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>techtags</title>
+      <link>https://s-horiguchi.github.io/tags/techtags/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/techtags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>used</title>
+      <link>https://s-horiguchi.github.io/tags/used/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/used/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://s-horiguchi.github.io/tags/website/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/website/</guid>
       <description></description>
     </item>
     

@@ -1,140 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://s-horiguchi.github.io/publications/master_thesis/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/jsmb2020/</loc>
     <lastmod>2020-10-10T17:48:33+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/theoimm2019/</loc>
     <lastmod>2020-10-10T17:48:33+09:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/nprot2019/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/qbio_caravan2019/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/jsmb2019/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/bachelor_thesis/</loc>
     <lastmod>2020-06-16T00:05:14+09:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/qbio_annu2019/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/nneuro2018/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/wbai2017/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
-    <lastmod>2020-10-10T17:48:33+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/</loc>
-    <lastmod>2020-10-10T17:48:33+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/theory/</loc>
-    <lastmod>2020-10-10T17:48:33+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/machine-learning/</loc>
     <lastmod>2020-10-10T17:48:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/projects/immune_learning/</loc>
     <lastmod>2020-10-10T17:48:33+09:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/</loc>
     <lastmod>2020-06-18T22:00:36+09:00</lastmod>
     <priority>1</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/informatics/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/nervous-system/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/brain/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/autonomous-vehicle/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/projects/ouxt/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/in/</loc>
+    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/techtags/</loc>
+    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/used/</loc>
+    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/website/</loc>
+    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+  </url><url>
     <loc>https://s-horiguchi.github.io/projects/</loc>
     <lastmod>2020-06-15T19:07:20+09:00</lastmod>
     <priority>0.9</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://s-horiguchi.github.io/search/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.1</priority>
   </url>
-  
 </urlset>

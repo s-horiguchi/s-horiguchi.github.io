@@ -6,10 +6,15 @@
     <description>Recent content in Home on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate>
-    
-	<atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate><atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master Thesis</title>
+      <link>https://s-horiguchi.github.io/publications/master_thesis/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/master_thesis/</guid>
+      <description>堀口修平. (2021) 学習理論に基づく免疫系T細胞集団動態の理解. 修士論文. 東京大学大学院工学系研究科電気系工学専攻. 指導教官: 小林徹也 SA. Horiguchi. (2021) Understanding the T-cell Population</description>
+    </item>
     
     <item>
       <title>JSMB 2020</title>
@@ -100,7 +105,7 @@
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
       <description>Understanding Immune system with Reinforcement Learning Theory.
 Publications:
- Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+ Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
     </item>
     
     <item>
