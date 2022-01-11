@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate><atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>JSMB 2021</title>
+      <link>https://s-horiguchi.github.io/publications/jsmb2021/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/jsmb2021/</guid>
+      <description>堀口修平, 小林徹也. (2021) 集団動態における生物学的コストとリーマン多様体上の勾配流:免疫系への応用. 数理生物学会年会. 宮崎. SA. Horiguchi, TJ. Kobayashi. (2021) Biological Costs in Population Dynamics</description>
+    </item>
+    
+    <item>
       <title>Master Thesis</title>
       <link>https://s-horiguchi.github.io/publications/master_thesis/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -98,12 +107,24 @@
     </item>
     
     <item>
-      <title>Reinforcement Learning Model of the Immune System</title>
+      <title>Programming Tutorial</title>
+      <link>https://s-horiguchi.github.io/projects/programming/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/projects/programming/</guid>
+      <description>I organized a programming tutorial for scientists with two other members of WINGS-ABC.
+Tutorial Webpage
+The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:
+ Sharing the code Environment setup (pip, pyenv, pipenv, Docker, VSCode) Parameter search and logging (mlflow) Version control Readability of the code Linter, Type checker Test, Unit test Reproducibility of Jupyter notebook  We also prepared sample codes for a deeper understanding of our tutorial.</description>
+    </item>
+    
+    <item>
+      <title>Learning Model of the Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>Understanding Immune system with Reinforcement Learning Theory.
+      <description>Understanding the Immune system with Learning Theory.
 Publications:
  Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
     </item>
