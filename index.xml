@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate><atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ICMMA 2021</title>
+      <link>https://s-horiguchi.github.io/publications/icmma2021/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/icmma2021/</guid>
+      <description>堀口修平, 小林徹也. (2022) A gradient flow of the heterogeneous cellular population. International Conference on &amp;ldquo;Emergence of Cooperation and Organization in Groups of Animals and Non-living Objects&amp;rdquo; 「生物及び無生物の集団における協調と組織化の創発」. Online. SA. Horiguchi, TJ. Kobayashi. (2021) A gradient flow of</description>
+    </item>
+    
+    <item>
       <title>JSMB 2021</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2021/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
@@ -107,6 +116,15 @@
     </item>
     
     <item>
+      <title>AIR for Human</title>
+      <link>https://s-horiguchi.github.io/projects/air/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/projects/air/</guid>
+      <description>Artificial Intelligence Research for Human (人工知能研究会 / AIR) is a community for artificial intelligence research led by students and young researchers. We received the Open Innovation Award from the Minister of Education, Culture, Sports, Science and Technology. 第４回 日本オープンイノベーション大賞 内閣総理大臣賞等</description>
+    </item>
+    
+    <item>
       <title>Programming Tutorial</title>
       <link>https://s-horiguchi.github.io/projects/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
@@ -119,14 +137,14 @@ The goal of this tutorial was to introduce a variety of know-how which is very c
     </item>
     
     <item>
-      <title>Learning Model of the Immune System</title>
+      <title>Theory of The Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
       <description>Understanding the Immune system with Learning Theory.
 Publications:
- Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+ ICMMA 2021 Annual Meeting of JSMB2021 Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
     </item>
     
     <item>

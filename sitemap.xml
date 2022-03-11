@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://s-horiguchi.github.io/publications/icmma2021/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/jsmb2021/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
     <priority>0.5</priority>
@@ -19,7 +23,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/nprot2019/</loc>
-    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+    <lastmod>2022-01-26T13:29:36+09:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/qbio_caravan2019/</loc>
@@ -39,7 +43,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/nneuro2018/</loc>
-    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+    <lastmod>2022-01-26T13:29:36+09:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/</loc>
@@ -50,6 +54,19 @@
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://s-horiguchi.github.io/projects/air/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
+    <lastmod>2022-01-11T12:19:55+09:00</lastmod>
+  </url><url>
     <loc>https://s-horiguchi.github.io/tags/programming/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
   </url><url>
@@ -57,31 +74,25 @@
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://s-horiguchi.github.io/tags/</loc>
-    <lastmod>2022-01-11T12:19:55+09:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
-    <lastmod>2022-01-11T12:19:55+09:00</lastmod>
-  </url><url>
     <loc>https://s-horiguchi.github.io/tags/theory/</loc>
+    <lastmod>2022-01-11T12:19:55+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/machine-learning/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/projects/immune_learning/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://s-horiguchi.github.io/tags/machine-learning/</loc>
-    <lastmod>2022-01-11T12:19:55+09:00</lastmod>
-  </url><url>
     <loc>https://s-horiguchi.github.io/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
     <priority>1</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/informatics/</loc>
-    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+    <lastmod>2022-01-26T13:29:36+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/nervous-system/</loc>
-    <lastmod>2021-07-07T14:40:33+09:00</lastmod>
+    <lastmod>2022-01-26T13:29:36+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/brain/</loc>
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
