@@ -6,7 +6,16 @@
     <description>Recent content in immune system on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/immune-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/immune-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theoretical Immunology</title>
+      <link>https://s-horiguchi.github.io/publications/theoimm2021/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/theoimm2021/</guid>
+      <description>堀口修平,小林徹也. (2021) 細胞集団の勾配流とT細胞分化モデル. 第6回理論免疫学ワークショップ. オンライン開催. SA. Horiguchi, TJ. Kobayashi. (2019) Gradient flows for the cellular population and T-cell differentiation model. The 6th</description>
+    </item>
+    
     <item>
       <title>ICMMA 2021</title>
       <link>https://s-horiguchi.github.io/publications/icmma2021/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://s-horiguchi.github.io/publications/jsmb2021/</guid>
       <description>堀口修平, 小林徹也. (2021) 集団動態における生物学的コストとリーマン多様体上の勾配流:免疫系への応用. 数理生物学会年会. 宮崎. SA. Horiguchi, TJ. Kobayashi. (2021) Biological Costs in Population Dynamics</description>
+    </item>
+    
+    <item>
+      <title>Theoretical Immunology</title>
+      <link>https://s-horiguchi.github.io/publications/theoimm2020/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/theoimm2020/</guid>
+      <description>堀口修平,小林徹也. (2020) 学習理論に基づく胸腺の機能的意義. 第5回理論免疫学ワークショップ. オンライン開催. SA. Horiguchi, TJ. Kobayashi. (2020) Functional role of the thymus from the learning theoretic viewpoint. The 5th Workshop</description>
     </item>
     
     <item>
