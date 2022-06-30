@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian optimization on Shuhei A. Horiguchi</title>
+    <link>https://s-horiguchi.github.io/tags/bayesian-optimization/</link>
+    <description>Recent content in Bayesian optimization on Shuhei A. Horiguchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/bayesian-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eLife 2022</title>
+      <link>https://s-horiguchi.github.io/publications/elife2022/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/elife2022/</guid>
+      <description>Genki N KandaTaku TsuzukiMotoki TeradaNoriko SakaiNaohiro MotozawaTomohiro MasudaMitsuhiro NishidaChihaya T WatanabeTatsuki HigashiShuhei A HoriguchiTaku KudoMotohisa KameiGenshiro A SunagawaKenji MatsukumaTakeshi SakuradaYosuke OzawaMasayo TakahashiKoichi TakahashiTohru Natsume (2022) Robotic search for optimal cell culture in regenerative medicine eLife 11:e77007. https://doi.org/10.7554/eLife.77007 Press releases in Japanese: 理研プレスリリース Epistraニュースリリース</description>
+    </item>
+    
+  </channel>
+</rss>
