@@ -6,7 +6,17 @@
     <description>Recent content in theory on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECMTB 2022</title>
+      <link>https://s-horiguchi.github.io/publications/ecmtb2022/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/ecmtb2022/</guid>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2022) Gradient flow of the heterogeneous cellular population and a T-cell immune response model. ECMTB 2022, Heidelberg, Germany.
+poster, reviewed</description>
+    </item>
+    
     <item>
       <title>InfoPhysBio 2022</title>
       <link>https://s-horiguchi.github.io/publications/infophys2022/</link>

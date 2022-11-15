@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian optimization</title>
       <link>https://s-horiguchi.github.io/tags/bayesian-optimization/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immune system</title>
+      <link>https://s-horiguchi.github.io/tags/immune-system/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory</title>
+      <link>https://s-horiguchi.github.io/tags/theory/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
     
@@ -22,24 +49,6 @@
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>immune system</title>
-      <link>https://s-horiguchi.github.io/tags/immune-system/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theory</title>
-      <link>https://s-horiguchi.github.io/tags/theory/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://s-horiguchi.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
-      
-      <guid>https://s-horiguchi.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

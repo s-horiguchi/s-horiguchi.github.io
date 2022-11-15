@@ -6,7 +6,17 @@
     <description>Recent content in machine learning on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2020 12:41:05 -0500</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arXiv 2022 BO</title>
+      <link>https://s-horiguchi.github.io/publications/arxiv2022_bo/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/arxiv2022_bo/</guid>
+      <description>Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947
+https://arxiv.org/abs/2211.00947</description>
+    </item>
+    
     <item>
       <title>Theory of The Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
@@ -15,7 +25,7 @@
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
       <description>Understanding the Immune system with Learning Theory.
 Publications:
- ArXiv 2022 ICMMA 2021 Annual Meeting of JSMB2021 Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB  </description>
+ArXiv 2022 ICMMA 2021 Annual Meeting of JSMB2021 Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB </description>
     </item>
     
   </channel>
