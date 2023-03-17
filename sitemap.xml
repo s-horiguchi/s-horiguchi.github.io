@@ -2,12 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://s-horiguchi.github.io/publications/jsi2022/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/publications/softbio2022/</loc>
+    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://s-horiguchi.github.io/publications/arxiv2022_bo/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T11:19:37+09:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/ecmtb2022/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-15T11:19:37+09:00</lastmod>
     <priority>0.5</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/elife2022/</loc>
@@ -82,20 +90,20 @@
     <lastmod>2020-06-16T16:37:11+09:00</lastmod>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://s-horiguchi.github.io/tags/bayesian-optimization/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/machine-learning/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+    <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/</loc>
-    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/theory/</loc>
-    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/bayesian-optimization/</loc>
+    <lastmod>2022-11-15T11:19:37+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/machine-learning/</loc>
+    <lastmod>2022-11-15T11:19:37+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/informatics/</loc>
     <lastmod>2022-06-30T19:34:14+09:00</lastmod>

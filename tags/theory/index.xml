@@ -6,7 +6,25 @@
     <description>Recent content in theory on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSI 2022</title>
+      <link>https://s-horiguchi.github.io/publications/jsi2022/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/jsi2022/</guid>
+      <description>堀口修平,小林徹也. (2022) Evolution of Thymic Involution Through the Lens of Learning Theory. 第51回日本免疫学会学術集会. 熊本. SA. Horiguchi, TJ. Kobayashi. (2022) Evolution of Thymic Involution Through the Lens of Learning Theory. The 51st Annual Meeting of The Japanese Society for Immunology. Kumamoto, Japan. poster, reviewed</description>
+    </item>
+    
+    <item>
+      <title>soft/bio-matter</title>
+      <link>https://s-horiguchi.github.io/publications/softbio2022/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/softbio2022/</guid>
+      <description>堀口修平,小林徹也. (2022) 細胞集団動態と１細胞動態の一般化勾配流によるモデリング. ソフトバイオ研究会2022. 秋田. SA. Horiguchi, TJ. Kobayashi. (2022) Generalized gradient flow modeling of the cellular population dynamics</description>
+    </item>
+    
     <item>
       <title>ECMTB 2022</title>
       <link>https://s-horiguchi.github.io/publications/ecmtb2022/</link>
