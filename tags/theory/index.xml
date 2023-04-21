@@ -6,7 +6,16 @@
     <description>Recent content in theory on Shuhei A. Horiguchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theoretical Immunology</title>
+      <link>https://s-horiguchi.github.io/publications/theoimm2022/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/theoimm2022/</guid>
+      <description>堀口修平,小林徹也. (2023) 細胞集団動態の勾配流によるモデリング. 第7回理論免疫学ワークショップ. 鹿児島. SA. Horiguchi, TJ. Kobayashi. (2023) Gradient flow modeling for the cellular population dynamics. The 7th Workshop on Theoretical Immunology. Kagoshima,</description>
+    </item>
+    
     <item>
       <title>JSI 2022</title>
       <link>https://s-horiguchi.github.io/publications/jsi2022/</link>
