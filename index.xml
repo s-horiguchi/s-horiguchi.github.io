@@ -8,6 +8,19 @@
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate><atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Physical Review Research 2023</title>
+      <link>https://s-horiguchi.github.io/publications/prr2023/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/prr2023/</guid>
+      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. Phys. Rev. Research 5, L022052, (2023)
+https://doi.org/10.1103/PhysRevResearch.5.L022052
+preprint:
+Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143
+https://arxiv.org/abs/2205.13143</description>
+    </item>
+    
+    <item>
       <title>Theoretical Immunology</title>
       <link>https://s-horiguchi.github.io/publications/theoimm2022/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
@@ -79,16 +92,6 @@ poster, reviewed</description>
       
       <guid>https://s-horiguchi.github.io/publications/infophys2022/</guid>
       <description>堀口修平, 小林徹也. (2022) 細胞集団の勾配流と１細胞動態の法則. 新学術領域 生命の情報物理学 第5回領域会議. 淡路. poster, not reviewed We recieved the Poster Award.</description>
-    </item>
-    
-    <item>
-      <title>arXiv 2022</title>
-      <link>https://s-horiguchi.github.io/publications/arxiv2022/</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://s-horiguchi.github.io/publications/arxiv2022/</guid>
-      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143
-https://arxiv.org/abs/2205.13143</description>
     </item>
     
     <item>
