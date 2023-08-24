@@ -8,6 +8,36 @@
     <language>en</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ICIAM 2023</title>
+      <link>https://s-horiguchi.github.io/publications/iciam2023/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/iciam2023/</guid>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 10th International Congress on Industrial and Applied Mathematics, Tokyo, Japan.
+oral, reviewed</description>
+    </item>
+    
+    <item>
+      <title>STATPHYS 2023</title>
+      <link>https://s-horiguchi.github.io/publications/statphys2023/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/statphys2023/</guid>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 28th International Conference on Statistical Physics, Tokyo, Japan.
+oral, reviewed</description>
+    </item>
+    
+    <item>
+      <title>STATPHYS 2023 satelite</title>
+      <link>https://s-horiguchi.github.io/publications/statphys2023_satelite/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://s-horiguchi.github.io/publications/statphys2023_satelite/</guid>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. STATPHYS28 Satellite Meeting “Statistical Physics and Information-Processing in Living Systems”, Tokyo, Japan.
+oral, invited</description>
+    </item>
+    
+    <item>
       <title>CIJK 2023</title>
       <link>https://s-horiguchi.github.io/publications/cijk2023/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
