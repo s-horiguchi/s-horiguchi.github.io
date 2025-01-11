@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autonomous vehicle on Shuhei A. Horiguchi</title>
+    <title>Autonomous Vehicle on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/autonomous-vehicle/</link>
-    <description>Recent content in autonomous vehicle on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Autonomous Vehicle on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 19:32:49 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/autonomous-vehicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OUXT Polaris</title>
       <link>https://s-horiguchi.github.io/projects/ouxt/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/ouxt/</guid>
       <description>OUXT Polaris is a team for the Maritime RobotX Challenge. I was the team leader on 2018 Challenge at Honolulu. We received judge&amp;rsquo;s special award. We were funded by Leave a Nest Co., Ltd. : The Nippon Foundation Marine Engineering Award (第40回リバネス研究費 日本財団海洋工学賞), and seven companies. We were also</description>
     </item>
-    
   </channel>
 </rss>

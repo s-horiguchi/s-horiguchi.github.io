@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning on Shuhei A. Horiguchi</title>
+    <title>Machine Learning on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
-    <description>Recent content in machine learning on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Machine Learning on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 02:00:48 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arXiv 2022 BO</title>
       <link>https://s-horiguchi.github.io/publications/arxiv2022_bo/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/arxiv2022_bo/</guid>
-      <description>Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947
-https://arxiv.org/abs/2211.00947</description>
+      <description>Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947&#xA;https://arxiv.org/abs/2211.00947</description>
     </item>
-    
     <item>
       <title>Theory of The Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>Understanding the Immune system with Learning Theory.
-Publications:
-ArXiv 2022 ICMMA 2021 Annual Meeting of JSMB2021 Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB </description>
+      <description>I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in Annual Meeting of JSMB2020. The paper is still under preparation.&#xA;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (Phys.</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,143 +4,135 @@
     <title>Tags on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/</link>
     <description>Recent content in Tags on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 02:00:48 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>theory</title>
+      <title>Control Theory</title>
+      <link>https://s-horiguchi.github.io/tags/control-theory/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://s-horiguchi.github.io/tags/control-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reaction Network</title>
+      <link>https://s-horiguchi.github.io/tags/reaction-network/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://s-horiguchi.github.io/tags/reaction-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stochastic Process</title>
+      <link>https://s-horiguchi.github.io/tags/stochastic-process/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://s-horiguchi.github.io/tags/stochastic-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theory</title>
       <link>https://s-horiguchi.github.io/tags/theory/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/theory/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>immune system</title>
+      <title>Immune System</title>
       <link>https://s-horiguchi.github.io/tags/immune-system/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/immune-system/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Bayesian optimization</title>
+      <title>Bayesian Optimization</title>
       <link>https://s-horiguchi.github.io/tags/bayesian-optimization/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/bayesian-optimization/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>machine learning</title>
+      <title>Machine Learning</title>
       <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>informatics</title>
+      <title>Informatics</title>
       <link>https://s-horiguchi.github.io/tags/informatics/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/informatics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>artificial intelligence</title>
+      <title>Artificial Intelligence</title>
       <link>https://s-horiguchi.github.io/tags/artificial-intelligence/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://s-horiguchi.github.io/tags/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nervous system</title>
+      <title>Nervous System</title>
       <link>https://s-horiguchi.github.io/tags/nervous-system/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/nervous-system/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brain</title>
+      <title>Brain</title>
       <link>https://s-horiguchi.github.io/tags/brain/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/brain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>autonomous vehicle</title>
+      <title>Autonomous Vehicle</title>
       <link>https://s-horiguchi.github.io/tags/autonomous-vehicle/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/autonomous-vehicle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Maritime RobotX Challenge</title>
       <link>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/maritime-robotx-challenge/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>in</title>
+      <title>In</title>
       <link>https://s-horiguchi.github.io/tags/in/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/in/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>techtags</title>
+      <title>Techtags</title>
       <link>https://s-horiguchi.github.io/tags/techtags/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/techtags/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>used</title>
+      <title>Used</title>
       <link>https://s-horiguchi.github.io/tags/used/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/used/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>website</title>
+      <title>Website</title>
       <link>https://s-horiguchi.github.io/tags/website/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/tags/website/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -4,325 +4,247 @@
     <title>Home on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/</link>
     <description>Recent content in Home on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2020 18:03:32 +0900</lastBuildDate><atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 02:00:48 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arXiv 2024</title>
+      <link>https://s-horiguchi.github.io/publications/arxiv2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://s-horiguchi.github.io/publications/arxiv2024/</guid>
+      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal control of stochastic reaction networks with entropic control cost and emergence of mode-switching strategies. preprint arXiv:2409.17488&#xA;https://arxiv.org/abs/2409.17488</description>
+    </item>
     <item>
       <title>JSMB 2023</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2023/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsmb2023/</guid>
       <description>堀口修平, 小林徹也. (2023) ジャンプ過程に対する線形可解な確率最適制御. 数理生物学会年会. 奈良. SA. Horiguchi, TJ. Kobayashi. (2023) Linearly-solvable stochastic optimal control problems for jump processes. 2023 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Nara, Japan. poster, not</description>
     </item>
-    
     <item>
       <title>ICIAM 2023</title>
       <link>https://s-horiguchi.github.io/publications/iciam2023/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/iciam2023/</guid>
-      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 10th International Congress on Industrial and Applied Mathematics, Tokyo, Japan.
-oral, reviewed</description>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 10th International Congress on Industrial and Applied Mathematics, Tokyo, Japan.&#xA;oral, reviewed</description>
     </item>
-    
     <item>
       <title>STATPHYS 2023</title>
       <link>https://s-horiguchi.github.io/publications/statphys2023/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/statphys2023/</guid>
-      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 28th International Conference on Statistical Physics, Tokyo, Japan.
-oral, reviewed</description>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. 28th International Conference on Statistical Physics, Tokyo, Japan.&#xA;oral, reviewed</description>
     </item>
-    
     <item>
       <title>STATPHYS 2023 satelite</title>
       <link>https://s-horiguchi.github.io/publications/statphys2023_satelite/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/statphys2023_satelite/</guid>
-      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. STATPHYS28 Satellite Meeting “Statistical Physics and Information-Processing in Living Systems”, Tokyo, Japan.
-oral, invited</description>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. STATPHYS28 Satellite Meeting “Statistical Physics and Information-Processing in Living Systems”, Tokyo, Japan.&#xA;oral, invited</description>
     </item>
-    
     <item>
       <title>CIJK 2023</title>
       <link>https://s-horiguchi.github.io/publications/cijk2023/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/cijk2023/</guid>
-      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Generalized gradient flow modeling of the cellular population dynamics and a T-cell immune response model. The 8th CIJK Conference on Mathematical and Theoretical Biology, Jeju, Korea.
-oral, not reviewed</description>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2023) Generalized gradient flow modeling of the cellular population dynamics and a T-cell immune response model. The 8th CIJK Conference on Mathematical and Theoretical Biology, Jeju, Korea.&#xA;oral, not reviewed</description>
     </item>
-    
     <item>
       <title>Physical Review Research 2023</title>
       <link>https://s-horiguchi.github.io/publications/prr2023/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/prr2023/</guid>
-      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. Phys. Rev. Research 5, L022052, (2023)
-https://doi.org/10.1103/PhysRevResearch.5.L022052
-preprint:
-Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143
-https://arxiv.org/abs/2205.13143</description>
+      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. Phys. Rev. Research 5, L022052, (2023)&#xA;https://doi.org/10.1103/PhysRevResearch.5.L022052&#xA;preprint:&#xA;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143&#xA;https://arxiv.org/abs/2205.13143</description>
     </item>
-    
     <item>
       <title>Theoretical Immunology</title>
       <link>https://s-horiguchi.github.io/publications/theoimm2022/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/theoimm2022/</guid>
       <description>堀口修平,小林徹也. (2023) 細胞集団動態の勾配流によるモデリング. 第7回理論免疫学ワークショップ. 鹿児島. SA. Horiguchi, TJ. Kobayashi. (2023) Gradient flow modeling for the cellular population dynamics. The 7th Workshop on Theoretical Immunology. Kagoshima,</description>
     </item>
-    
     <item>
       <title>JSI 2022</title>
       <link>https://s-horiguchi.github.io/publications/jsi2022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsi2022/</guid>
       <description>堀口修平,小林徹也. (2022) Evolution of Thymic Involution Through the Lens of Learning Theory. 第51回日本免疫学会学術集会. 熊本. SA. Horiguchi, TJ. Kobayashi. (2022) Evolution of Thymic Involution Through the Lens of Learning Theory. The 51st Annual Meeting of The Japanese Society for Immunology. Kumamoto, Japan. poster, reviewed</description>
     </item>
-    
     <item>
       <title>soft/bio-matter</title>
       <link>https://s-horiguchi.github.io/publications/softbio2022/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/softbio2022/</guid>
       <description>堀口修平,小林徹也. (2022) 細胞集団動態と１細胞動態の一般化勾配流によるモデリング. ソフトバイオ研究会2022. 秋田. SA. Horiguchi, TJ. Kobayashi. (2022) Generalized gradient flow modeling of the cellular population dynamics</description>
     </item>
-    
     <item>
       <title>arXiv 2022 BO</title>
       <link>https://s-horiguchi.github.io/publications/arxiv2022_bo/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/arxiv2022_bo/</guid>
-      <description>Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947
-https://arxiv.org/abs/2211.00947</description>
+      <description>Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947&#xA;https://arxiv.org/abs/2211.00947</description>
     </item>
-    
     <item>
       <title>ECMTB 2022</title>
       <link>https://s-horiguchi.github.io/publications/ecmtb2022/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/ecmtb2022/</guid>
-      <description>SA. Horiguchi, TJ. Kobayashi. (2022) Gradient flow of the heterogeneous cellular population and a T-cell immune response model. ECMTB 2022, Heidelberg, Germany.
-poster, reviewed</description>
+      <description>SA. Horiguchi, TJ. Kobayashi. (2022) Gradient flow of the heterogeneous cellular population and a T-cell immune response model. ECMTB 2022, Heidelberg, Germany.&#xA;poster, reviewed</description>
     </item>
-    
     <item>
       <title>JSMB 2022</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2022/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsmb2022/</guid>
       <description>I organized a following symposium &amp;ldquo;Mathematical modeling and data analysis of population dynamics&amp;rdquo; (集団動態の数理モデルと情報解析). Abstract(企画趣旨) : 細胞内分子の集団、免疫細胞の集団、渡り鳥の集団、</description>
     </item>
-    
     <item>
       <title>eLife 2022</title>
       <link>https://s-horiguchi.github.io/publications/elife2022/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/elife2022/</guid>
       <description>Genki N KandaTaku TsuzukiMotoki TeradaNoriko SakaiNaohiro MotozawaTomohiro MasudaMitsuhiro NishidaChihaya T WatanabeTatsuki HigashiShuhei A HoriguchiTaku KudoMotohisa KameiGenshiro A SunagawaKenji MatsukumaTakeshi SakuradaYosuke OzawaMasayo TakahashiKoichi TakahashiTohru Natsume (2022) Robotic search for optimal cell culture in regenerative medicine eLife 11:e77007. https://doi.org/10.7554/eLife.77007 Press releases in Japanese: 理研プレスリリース Epistraニュースリリース</description>
     </item>
-    
     <item>
       <title>InfoPhysBio 2022</title>
       <link>https://s-horiguchi.github.io/publications/infophys2022/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/infophys2022/</guid>
       <description>堀口修平, 小林徹也. (2022) 細胞集団の勾配流と１細胞動態の法則. 新学術領域 生命の情報物理学 第5回領域会議. 淡路. poster, not reviewed We recieved the Poster Award.</description>
     </item>
-    
     <item>
       <title>Theoretical Immunology</title>
       <link>https://s-horiguchi.github.io/publications/theoimm2021/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/theoimm2021/</guid>
       <description>堀口修平,小林徹也. (2022) 細胞集団の勾配流とT細胞分化モデル. 第6回理論免疫学ワークショップ. オンライン開催. SA. Horiguchi, TJ. Kobayashi. (2022) Gradient flows for the cellular population and T-cell differentiation model. The 6th</description>
     </item>
-    
     <item>
       <title>ICMMA 2021</title>
       <link>https://s-horiguchi.github.io/publications/icmma2021/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/icmma2021/</guid>
       <description>堀口修平, 小林徹也. (2022) A gradient flow of the heterogeneous cellular population. International Conference on &amp;ldquo;Emergence of Cooperation and Organization in Groups of Animals and Non-living Objects&amp;rdquo; 「生物及び無生物の集団における協調と組織化の創発」. Online. SA. Horiguchi, TJ. Kobayashi. (2022) A gradient flow of</description>
     </item>
-    
     <item>
       <title>JSMB 2021</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2021/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsmb2021/</guid>
       <description>堀口修平, 小林徹也. (2021) 集団動態における生物学的コストとリーマン多様体上の勾配流:免疫系への応用. 数理生物学会年会. 宮崎. SA. Horiguchi, TJ. Kobayashi. (2021) Biological Costs in Population Dynamics</description>
     </item>
-    
     <item>
       <title>Theoretical Immunology</title>
       <link>https://s-horiguchi.github.io/publications/theoimm2020/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/theoimm2020/</guid>
       <description>堀口修平,小林徹也. (2021) 学習理論に基づく胸腺の機能的意義. 第5回理論免疫学ワークショップ. オンライン開催. SA. Horiguchi, TJ. Kobayashi. (2021) Functional role of the thymus from the learning theoretic viewpoint. The 5th Workshop</description>
     </item>
-    
     <item>
       <title>Master Thesis</title>
       <link>https://s-horiguchi.github.io/publications/master_thesis/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/master_thesis/</guid>
       <description>堀口修平. (2021) 学習理論に基づく免疫系T細胞集団動態の理解. 修士論文. 東京大学大学院工学系研究科電気系工学専攻. 指導教官: 小林徹也 SA. Horiguchi. (2021) Understanding the T-cell Population</description>
     </item>
-    
     <item>
       <title>JSMB 2020</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2020/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsmb2020/</guid>
       <description>堀口修平, 小林徹也. (2020) 免疫系の学習モデルから見た胸腺の機能的意義. 数理生物学会年会. 名古屋. SA. Horiguchi, TJ. Kobayashi. (2020) A reinforcemnet learning model of the immune system and its implication about functionality of the thymus. 2020 Japanese Society</description>
     </item>
-    
     <item>
       <title>Theoretical Immunology</title>
       <link>https://s-horiguchi.github.io/publications/theoimm2019/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/theoimm2019/</guid>
       <description>堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. 第４回理論免疫学ワークショップ. 大分. SA. Horiguchi, TJ. Kobayashi. (2020) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. The 4th Workshop</description>
     </item>
-    
     <item>
       <title>Nature Protocols 2019</title>
       <link>https://s-horiguchi.github.io/publications/nprot2019/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/nprot2019/</guid>
       <description>Matsumoto, K., Mitani, T.T., Horiguchi, S.A. et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019). https://doi.org/10.1038/s41596-019-0240-9 理研プレスリリース (Press Release in Japanese)</description>
     </item>
-    
     <item>
       <title>Q-bio Caravan 2019</title>
       <link>https://s-horiguchi.github.io/publications/qbio_caravan2019/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/qbio_caravan2019/</guid>
       <description>堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. 定量生物学の会北海道キャラバン2019. 北海道. SA. Horiguchi, TJ. Kobayashi. (2019) Mathematical Principle of a Reinforcemnet Learning Model of the Adaptive Immune Systems.</description>
     </item>
-    
     <item>
       <title>JSMB 2019</title>
       <link>https://s-horiguchi.github.io/publications/jsmb2019/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/jsmb2019/</guid>
       <description>堀口修平, 小林徹也. (2019) 強化学習における細胞増殖的ダイナミクスの出現. 数理生物学会年会. 東京. SA. Horiguchi, TJ. Kobayashi. (2019) Cell Proliferation Dynamics in Reinforcement Learning. 2019 Japanese Society for Mathematical Biology(JSMB) Anual Meeting, Tokyo, Japan. poster, not reviewed</description>
     </item>
-    
     <item>
       <title>Bachelor Thesis</title>
       <link>https://s-horiguchi.github.io/publications/bachelor_thesis/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/bachelor_thesis/</guid>
       <description>堀口修平. (2019) サドル型不安定性をもつ倒立振子の最適制御に関する考察. 学位論文. 大阪大学基礎工学部システム科学科生物工学コース. 指導教官: 野村</description>
     </item>
-    
     <item>
       <title>Q-bio Annual Meeting 2019</title>
       <link>https://s-horiguchi.github.io/publications/qbio_annu2019/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/qbio_annu2019/</guid>
       <description>堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. 定量生物学の会 第９回年会. 大阪. SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. The 9th Annual Meeting of Japanese</description>
     </item>
-    
     <item>
       <title>Nature Neuroscience 2018</title>
       <link>https://s-horiguchi.github.io/publications/nneuro2018/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/nneuro2018/</guid>
       <description>Murakami, T.C., Mano, T., Saikawa, S., Horiguchi S.A. et al. A three-dimensional single-cell-resolution whole-brain atlas using CUBIC-X expansion microscopy and tissue clearing. Nat Neurosci 21, 625–637 (2018). https://doi.org/10.1038/s41593-018-0109-1</description>
     </item>
-    
     <item>
       <title>WBAI Wakate Kansai</title>
       <link>https://s-horiguchi.github.io/publications/wbai2017/</link>
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/wbai2017/</guid>
       <description>堀口修平. (2017) 動物とロボットの空間認識. 全脳アーキテクチャ若手の会 関西異分野交流会. 大阪. SA. Horiguchi. (2017) Spatial Perception in Animals and Robots. Cross-disciplinary Exchange Meeting in Kansai, WBAI Wakate. Osaka, Japan. oral, not reviewed</description>
     </item>
-    
     <item>
       <title>AIR for Human</title>
       <link>https://s-horiguchi.github.io/projects/air/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/air/</guid>
       <description>Artificial Intelligence Research for Human (人工知能研究会 / AIR) is a community for artificial intelligence research led by students and young researchers. We received the Open Innovation Award from the Minister of Education, Culture, Sports, Science and Technology. 第４回 日本オープンイノベーション大賞 内閣総理大臣賞等</description>
     </item>
-    
     <item>
       <title>Programming Tutorial</title>
       <link>https://s-horiguchi.github.io/projects/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/programming/</guid>
-      <description>I organized a programming tutorial for scientists with two other members of WINGS-ABC.
-Tutorial Webpage
-The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:
-Sharing the code Environment setup (pip, pyenv, pipenv, Docker, VSCode) Parameter search and logging (mlflow) Version control Readability of the code Linter, Type checker Test, Unit test Reproducibility of Jupyter notebook We also prepared sample codes for a deeper understanding of our tutorial.</description>
+      <description>I organized a programming tutorial for scientists with two other members of WINGS-ABC.&#xA;Tutorial Webpage&#xA;The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:&#xA;Sharing the code Environment setup (pip, pyenv, pipenv, Docker, VSCode) Parameter search and logging (mlflow) Version control Readability of the code Linter, Type checker Test, Unit test Reproducibility of Jupyter notebook We also prepared sample codes for a deeper understanding of our tutorial.</description>
     </item>
-    
     <item>
       <title>Theory of The Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>Understanding the Immune system with Learning Theory.
-Publications:
-ArXiv 2022 ICMMA 2021 Annual Meeting of JSMB2021 Master thesis Annual Meeting of JSMB2020 Workshop on Theoretical Biology Q-bio Caravan 2019 Annual Meeting of JSMB </description>
+      <description>I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in Annual Meeting of JSMB2020. The paper is still under preparation.&#xA;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (Phys.</description>
     </item>
-    
     <item>
       <title>OUXT Polaris</title>
       <link>https://s-horiguchi.github.io/projects/ouxt/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/ouxt/</guid>
       <description>OUXT Polaris is a team for the Maritime RobotX Challenge. I was the team leader on 2018 Challenge at Honolulu. We received judge&amp;rsquo;s special award. We were funded by Leave a Nest Co., Ltd. : The Nippon Foundation Marine Engineering Award (第40回リバネス研究費 日本財団海洋工学賞), and seven companies. We were also</description>
     </item>
-    
     <item>
       <title>Search Results</title>
       <link>https://s-horiguchi.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+      <description>This file exists solely to respond to /search URL with the related search layout template.&#xA;No content shown here is rendered, all content is based in the template layouts/page/search.html&#xA;Setting a very low sitemap priority will tell search engines this is not important content.&#xA;This implementation uses Fusejs, jquery and mark.js&#xA;Initial setup Search depends on additional output content type of JSON in config.toml&#xA;[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
     </item>
-    
   </channel>
 </rss>

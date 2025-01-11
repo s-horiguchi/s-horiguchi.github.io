@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>artificial intelligence on Shuhei A. Horiguchi</title>
+    <title>Artificial Intelligence on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/artificial-intelligence/</link>
-    <description>Recent content in artificial intelligence on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Artificial Intelligence on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 15:54:30 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIR for Human</title>
       <link>https://s-horiguchi.github.io/projects/air/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/air/</guid>
       <description>Artificial Intelligence Research for Human (人工知能研究会 / AIR) is a community for artificial intelligence research led by students and young researchers. We received the Open Innovation Award from the Minister of Education, Culture, Sports, Science and Technology. 第４回 日本オープンイノベーション大賞 内閣総理大臣賞等</description>
     </item>
-    
   </channel>
 </rss>

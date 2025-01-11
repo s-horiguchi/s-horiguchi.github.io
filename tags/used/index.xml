@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>used on Shuhei A. Horiguchi</title>
+    <title>Used on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/used/</link>
-    <description>Recent content in used on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Used on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/used/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 15:51:14 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/used/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications/Talks</title>
       <link>https://s-horiguchi.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/publications/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reaction Network on Shuhei A. Horiguchi</title>
+    <link>https://s-horiguchi.github.io/tags/reaction-network/</link>
+    <description>Recent content in Reaction Network on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/reaction-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arXiv 2024</title>
+      <link>https://s-horiguchi.github.io/publications/arxiv2024/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://s-horiguchi.github.io/publications/arxiv2024/</guid>
+      <description>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal control of stochastic reaction networks with entropic control cost and emergence of mode-switching strategies. preprint arXiv:2409.17488&#xA;https://arxiv.org/abs/2409.17488</description>
+    </item>
+  </channel>
+</rss>

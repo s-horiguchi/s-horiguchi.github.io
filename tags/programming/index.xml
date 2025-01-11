@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>programming on Shuhei A. Horiguchi</title>
+    <title>Programming on Shuhei A. Horiguchi</title>
     <link>https://s-horiguchi.github.io/tags/programming/</link>
-    <description>Recent content in programming on Shuhei A. Horiguchi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Programming on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://s-horiguchi.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 12:19:55 +0900</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Tutorial</title>
       <link>https://s-horiguchi.github.io/projects/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://s-horiguchi.github.io/projects/programming/</guid>
-      <description>I organized a programming tutorial for scientists with two other members of WINGS-ABC.
-Tutorial Webpage
-The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:
-Sharing the code Environment setup (pip, pyenv, pipenv, Docker, VSCode) Parameter search and logging (mlflow) Version control Readability of the code Linter, Type checker Test, Unit test Reproducibility of Jupyter notebook We also prepared sample codes for a deeper understanding of our tutorial.</description>
+      <description>I organized a programming tutorial for scientists with two other members of WINGS-ABC.&#xA;Tutorial Webpage&#xA;The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:&#xA;Sharing the code Environment setup (pip, pyenv, pipenv, Docker, VSCode) Parameter search and logging (mlflow) Version control Readability of the code Linter, Type checker Test, Unit test Reproducibility of Jupyter notebook We also prepared sample codes for a deeper understanding of our tutorial.</description>
     </item>
-    
   </channel>
 </rss>
