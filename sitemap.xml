@@ -123,15 +123,19 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/control-theory/</loc>
-    <lastmod>2025-01-12T02:08:27+09:00</lastmod>
+    <lastmod>2025-09-05T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/projects/scrn_control/</loc>
+    <lastmod>2025-09-05T12:41:05-05:00</lastmod>
+    <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/reaction-network/</loc>
-    <lastmod>2025-01-12T02:08:27+09:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/stochastic-process/</loc>
-    <lastmod>2025-01-12T02:08:27+09:00</lastmod>
+    <lastmod>2025-09-05T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/</loc>
+    <lastmod>2025-09-05T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/stochastic-process/</loc>
     <lastmod>2025-01-12T02:08:27+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/theory/</loc>
@@ -139,6 +143,13 @@
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
     <lastmod>2025-01-12T02:00:48+09:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/gradient-flow/</loc>
+    <lastmod>2023-06-05T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</loc>
+    <lastmod>2023-06-05T12:41:05-05:00</lastmod>
+    <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/bayesian-optimization/</loc>
     <lastmod>2025-01-12T02:08:27+09:00</lastmod>
@@ -161,7 +172,7 @@
   </url><url>
     <loc>https://s-horiguchi.github.io/projects/programming/</loc>
     <lastmod>2022-01-11T12:19:55+09:00</lastmod>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/projects/immune_learning/</loc>
     <lastmod>2025-01-12T02:00:48+09:00</lastmod>

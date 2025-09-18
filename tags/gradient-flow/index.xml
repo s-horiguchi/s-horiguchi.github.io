@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradient Flow on Shuhei A. Horiguchi</title>
+    <link>https://s-horiguchi.github.io/tags/gradient-flow/</link>
+    <description>Recent content in Gradient Flow on Shuhei A. Horiguchi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jun 2023 12:41:05 -0500</lastBuildDate>
+    <atom:link href="https://s-horiguchi.github.io/tags/gradient-flow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradient Flow of Multicellular Population Dynamics</title>
+      <link>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</link>
+      <pubDate>Mon, 05 Jun 2023 12:41:05 -0500</pubDate>
+      <guid>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</guid>
+      <description>&lt;h3 id=&#34;how-should-cells-behave-to-achieve-a-population-level-goal&#34;&gt;How should cells behave to achieve a population-level goal?&lt;/h3&gt;&#xA;&lt;p&gt;I used the theory of generalized gradient flows to answer this question.&#xA;The resulting theoretical framework (cellular gradient flow) could explain single-cell-level rules (e.g., unidirectional differentiation) in multicellular systems as a result of population-level goal-directed behavior.&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-details-see-the-following-paper&#34;&gt;For details, see the following paper:&lt;/h4&gt;&#xA;&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure linking single-cell-level rules and population-level dynamics, Phys. Rev. Research 5, L022052, (2023)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

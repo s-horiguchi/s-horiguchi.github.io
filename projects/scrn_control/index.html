@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Shuhei A. Horiguchi | Physical Review Research 2023</title>
-  <meta property="og:title" content="Shuhei A. Horiguchi | Physical Review Research 2023" />
+  <title>Shuhei A. Horiguchi | Optimal Control of Stochastic Reaction Networks</title>
+  <meta property="og:title" content="Shuhei A. Horiguchi | Optimal Control of Stochastic Reaction Networks" />
   <meta property="og:image" content="https://s-horiguchi.github.io/img/profile.jpeg" />
-  <meta name="description" content="Cellular gradient flow structure linking single-cell-level rules and population-level dynamics">
-  <meta property="og:description" content="Cellular gradient flow structure linking single-cell-level rules and population-level dynamics" />
+  <meta name="description" content="What is the best strategy to control a biological population?">
+  <meta property="og:description" content="What is the best strategy to control a biological population?" />
   <meta name="author" content="Shuhei A. Horiguchi">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -94,12 +94,12 @@
 
 
 <li class="breadcrumb-item">
-  <a href="https://s-horiguchi.github.io/publications/">Publications/Talks</a>
+  <a href="https://s-horiguchi.github.io/projects/">Projects</a>
 </li>
 
 
 <li class="breadcrumb-item active">
-  <a href="https://s-horiguchi.github.io/publications/prr2023/">Physical Review Research 2023</a>
+  <a href="https://s-horiguchi.github.io/projects/scrn_control/">Optimal Control of Stochastic Reaction Networks</a>
 </li>
 
   </ol>
@@ -108,27 +108,31 @@
 
 
 
-<section class="resume-section p-3 p-lg-5 d-flex d-column content">
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Physical Review Research 2023</span></h2>
-    <p><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L022052">Link to full Article</a></p>
-    
-    <p>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure linking single-cell-level rules and population-level dynamics. <em>Phys. Rev. Research</em> <strong>5</strong>, L022052, (2023)</p>
-<p><a href="https://doi.org/10.1103/PhysRevResearch.5.L022052">https://doi.org/10.1103/PhysRevResearch.5.L022052</a></p>
-<p>preprint:</p>
-<p>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143</p>
-<p><a href="https://arxiv.org/abs/2205.13143">https://arxiv.org/abs/2205.13143</a></p>
+    <h2 class="mb-0"><span class="text-primary">Optimal Control of Stochastic Reaction Networks</span></h2>
+    <h3 id="what-is-the-best-strategy-to-control-a-biological-population">What is the best strategy to control a biological population?</h3>
+<p>Compared with the conventional settings such as Linear-Quadratic-Gaussian (LQG) in control theory, the optimal control problems of stochastic reaction networks (SRNs) is quite different in the following sense:</p>
+<ol>
+<li>Nonlinearity due to many-body interactions</li>
+<li>Discrete state space and Poissonian randomness</li>
+<li>Nonnegativity constraints on the state and the control input</li>
+<li>Absorbing boundaries (e.g., extinction of a species)</li>
+</ol>
+<p>We found a trick to efficiently solve optimal control problems for SRNs. Consideration of the control cost function was a key to success. If the control cost function is carefully designed with information theoretic quantities, i.e., Kullback–Leibler divergence, the optimal control problems can be reduced to efficiently solvable linear equations. This trick applies to any SRNs with any objective function.</p>
+<h4 id="for-details-see-the-following-paper">For details, see the following paper:</h4>
+<p>Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal control of stochastic reaction networks with entropic control cost and emergence of mode-switching strategies. preprint arXiv:2409.17488</p>
+<p><a href="https://arxiv.org/abs/2409.17488">https://arxiv.org/abs/2409.17488</a></p>
 
-    <p class="mt-3">
+    
     <ul class="tags">
     
-      <li><a class="tag" href="/tags/immune-system">immune system</a></li>
+      <li><a class="tag" href="/tags/control-theory">control theory</a></li>
     
-      <li><a class="tag" href="/tags/theory">theory</a></li>
+      <li><a class="tag" href="/tags/reaction-network">reaction network</a></li>
     
 </ul>
 
-    </p>
   </div>
 </section>
 

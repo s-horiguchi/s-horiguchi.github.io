@@ -6,7 +6,7 @@
     <description>Recent content in Home on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jan 2025 02:08:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://s-horiguchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arXiv 2024</title>
@@ -55,7 +55,7 @@
       <link>https://s-horiguchi.github.io/publications/prr2023/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://s-horiguchi.github.io/publications/prr2023/</guid>
-      <description>&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. &lt;em&gt;Phys. Rev. Research&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, L022052, (2023)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.5.L022052&#34;&gt;https://doi.org/10.1103/PhysRevResearch.5.L022052&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;preprint:&lt;/p&gt;&#xA;&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2205.13143&#34;&gt;https://arxiv.org/abs/2205.13143&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure linking single-cell-level rules and population-level dynamics. &lt;em&gt;Phys. Rev. Research&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, L022052, (2023)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.5.L022052&#34;&gt;https://doi.org/10.1103/PhysRevResearch.5.L022052&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;preprint:&lt;/p&gt;&#xA;&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. preprint. arXiv:2205.13143&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2205.13143&#34;&gt;https://arxiv.org/abs/2205.13143&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Theoretical Immunology</title>
@@ -212,6 +212,20 @@
       <description>&lt;p&gt;堀口修平. (2017) 動物とロボットの空間認識. &lt;em&gt;全脳アーキテクチャ若手の会 関西異分野交流会&lt;/em&gt;. 大阪.&lt;/p&gt;&#xA;&lt;p&gt;SA. Horiguchi. (2017) Spatial Perception in Animals and Robots. &lt;em&gt;Cross-disciplinary Exchange Meeting in Kansai, WBAI Wakate&lt;/em&gt;. Osaka, Japan.&lt;/p&gt;&#xA;&lt;p&gt;oral, not reviewed&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Optimal Control of Stochastic Reaction Networks</title>
+      <link>https://s-horiguchi.github.io/projects/scrn_control/</link>
+      <pubDate>Fri, 05 Sep 2025 12:41:05 -0500</pubDate>
+      <guid>https://s-horiguchi.github.io/projects/scrn_control/</guid>
+      <description>&lt;h3 id=&#34;what-is-the-best-strategy-to-control-a-biological-population&#34;&gt;What is the best strategy to control a biological population?&lt;/h3&gt;&#xA;&lt;p&gt;Compared with the conventional settings such as Linear-Quadratic-Gaussian (LQG) in control theory, the optimal control problems of stochastic reaction networks (SRNs) is quite different in the following sense:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nonlinearity due to many-body interactions&lt;/li&gt;&#xA;&lt;li&gt;Discrete state space and Poissonian randomness&lt;/li&gt;&#xA;&lt;li&gt;Nonnegativity constraints on the state and the control input&lt;/li&gt;&#xA;&lt;li&gt;Absorbing boundaries (e.g., extinction of a species)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;We found a trick to efficiently solve optimal control problems for SRNs. Consideration of the control cost function was a key to success. If the control cost function is carefully designed with information theoretic quantities, i.e., Kullback–Leibler divergence, the optimal control problems can be reduced to efficiently solvable linear equations. This trick applies to any SRNs with any objective function.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gradient Flow of Multicellular Population Dynamics</title>
+      <link>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</link>
+      <pubDate>Mon, 05 Jun 2023 12:41:05 -0500</pubDate>
+      <guid>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</guid>
+      <description>&lt;h3 id=&#34;how-should-cells-behave-to-achieve-a-population-level-goal&#34;&gt;How should cells behave to achieve a population-level goal?&lt;/h3&gt;&#xA;&lt;p&gt;I used the theory of generalized gradient flows to answer this question.&#xA;The resulting theoretical framework (cellular gradient flow) could explain single-cell-level rules (e.g., unidirectional differentiation) in multicellular systems as a result of population-level goal-directed behavior.&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-details-see-the-following-paper&#34;&gt;For details, see the following paper:&lt;/h4&gt;&#xA;&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure linking single-cell-level rules and population-level dynamics, Phys. Rev. Research 5, L022052, (2023)&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AIR for Human</title>
       <link>https://s-horiguchi.github.io/projects/air/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
@@ -226,11 +240,11 @@
       <description>&lt;p&gt;I organized a programming tutorial for scientists with two other members of &lt;a href=&#34;http://wings-abc.c.u-tokyo.ac.jp/&#34;&gt;WINGS-ABC&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/WINGS-ABC-programming-tutorial/tutorial-info&#34;&gt;Tutorial Webpage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sharing the code&lt;/li&gt;&#xA;&lt;li&gt;Environment setup (pip, pyenv, pipenv, Docker, VSCode)&lt;/li&gt;&#xA;&lt;li&gt;Parameter search and logging (mlflow)&lt;/li&gt;&#xA;&lt;li&gt;Version control&lt;/li&gt;&#xA;&lt;li&gt;Readability of the code&lt;/li&gt;&#xA;&lt;li&gt;Linter, Type checker&lt;/li&gt;&#xA;&lt;li&gt;Test, Unit test&lt;/li&gt;&#xA;&lt;li&gt;Reproducibility of Jupyter notebook&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We also prepared sample codes for a deeper understanding of our tutorial.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Theory of The Immune System</title>
+      <title>Learning Theory of The Immune System</title>
       <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
       <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://s-horiguchi.github.io/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;how-does-the-adaptive-immune-system-implement-learning-algorithms&#34;&gt;How does the adaptive immune system implement learning algorithms?&lt;/h3&gt;&#xA;&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://s-horiguchi.github.io/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OUXT Polaris</title>
