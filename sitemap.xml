@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s-horiguchi.github.io/publications/arxiv2024/</loc>
-    <lastmod>2025-01-12T02:08:27+09:00</lastmod>
+    <loc>https://s-horiguchi.github.io/publications/prxlife2025/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/publications/prr2023/</loc>
@@ -47,26 +47,26 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/control-theory/</loc>
-    <lastmod>2025-09-18T12:27:41+09:00</lastmod>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/reaction-network/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/stochastic-process/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://s-horiguchi.github.io/tags/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/projects/scrn_control/</loc>
     <lastmod>2025-09-18T12:27:41+09:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://s-horiguchi.github.io/tags/reaction-network/</loc>
-    <lastmod>2025-09-18T12:27:41+09:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/</loc>
-    <lastmod>2025-09-18T12:27:41+09:00</lastmod>
-  </url><url>
-    <loc>https://s-horiguchi.github.io/tags/stochastic-process/</loc>
-    <lastmod>2025-01-12T02:08:27+09:00</lastmod>
-  </url><url>
     <loc>https://s-horiguchi.github.io/tags/theory/</loc>
-    <lastmod>2025-09-18T12:27:41+09:00</lastmod>
+    <lastmod>2025-09-19T15:16:11+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/immune-system/</loc>
-    <lastmod>2025-09-18T12:27:41+09:00</lastmod>
+    <lastmod>2025-09-19T15:16:11+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/gradient-flow/</loc>
     <lastmod>2025-09-18T12:27:41+09:00</lastmod>
@@ -107,10 +107,10 @@
     <priority>1</priority>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/nervous-system/</loc>
-    <lastmod>2022-01-26T13:29:36+09:00</lastmod>
+    <lastmod>2025-09-19T15:16:11+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/brain/</loc>
-    <lastmod>2020-06-16T16:37:11+09:00</lastmod>
+    <lastmod>2025-09-19T15:16:11+09:00</lastmod>
   </url><url>
     <loc>https://s-horiguchi.github.io/tags/autonomous-vehicle/</loc>
     <lastmod>2022-06-30T19:32:49+09:00</lastmod>
