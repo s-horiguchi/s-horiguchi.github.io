@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stochastic Process on Shuhei A. Horiguchi</title>
-    <link>https://s-horiguchi.github.io/tags/stochastic-process/</link>
+    <link>https://www.shoriguchi.me/tags/stochastic-process/</link>
     <description>Recent content in Stochastic Process on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://s-horiguchi.github.io/tags/stochastic-process/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 13:22:27 +0900</lastBuildDate>
+    <atom:link href="https://www.shoriguchi.me/tags/stochastic-process/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRX Life 2025</title>
-      <link>https://s-horiguchi.github.io/publications/prxlife2025/</link>
+      <link>https://www.shoriguchi.me/publications/prxlife2025/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/publications/prxlife2025/</guid>
+      <guid>https://www.shoriguchi.me/publications/prxlife2025/</guid>
       <description>&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal Control of Stochastic Reaction Networks with Entropic Control Cost and Emergence of Mode-Switching Strategies. &lt;em&gt;PRX Life&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;, 033027&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://journals.aps.org/prxlife/abstract/10.1103/zttn-tpzq&#34;&gt;https://journals.aps.org/prxlife/abstract/10.1103/zttn-tpzq&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

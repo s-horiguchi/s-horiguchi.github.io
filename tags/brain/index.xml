@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain on Shuhei A. Horiguchi</title>
-    <link>https://s-horiguchi.github.io/tags/brain/</link>
+    <link>https://www.shoriguchi.me/tags/brain/</link>
     <description>Recent content in Brain on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Sep 2025 15:16:11 +0900</lastBuildDate>
-    <atom:link href="https://s-horiguchi.github.io/tags/brain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.shoriguchi.me/tags/brain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Q-bio Annual Meeting 2019</title>
-      <link>https://s-horiguchi.github.io/publications/qbio_annu2019/</link>
+      <link>https://www.shoriguchi.me/publications/qbio_annu2019/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/publications/qbio_annu2019/</guid>
+      <guid>https://www.shoriguchi.me/publications/qbio_annu2019/</guid>
       <description>&lt;p&gt;堀口修平. (2019) サドル型平衡点を持つ不安定なシステムにおける間欠制御の最適性. &lt;em&gt;定量生物学の会 第９回年会&lt;/em&gt;. 大阪.&lt;/p&gt;&#xA;&lt;p&gt;SA. Horiguchi. (2019) Optimality of Intermittent Controller for Saddle-type Unstable System. &lt;em&gt;The 9th Annual Meeting of Japanese Society for Quantitative Biology&lt;/em&gt;. Osaka, Japan.&lt;/p&gt;</description>
     </item>
   </channel>

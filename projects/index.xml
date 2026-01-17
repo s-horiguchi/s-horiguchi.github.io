@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Shuhei A. Horiguchi</title>
-    <link>https://s-horiguchi.github.io/projects/</link>
+    <link>https://www.shoriguchi.me/projects/</link>
     <description>Recent content in Projects on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://s-horiguchi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.shoriguchi.me/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal Control of Stochastic Reaction Networks</title>
-      <link>https://s-horiguchi.github.io/projects/scrn_control/</link>
+      <link>https://www.shoriguchi.me/projects/scrn_control/</link>
       <pubDate>Fri, 05 Sep 2025 12:41:05 -0500</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/scrn_control/</guid>
+      <guid>https://www.shoriguchi.me/projects/scrn_control/</guid>
       <description>&lt;h3 id=&#34;what-is-the-best-strategy-to-control-a-biological-population&#34;&gt;What is the best strategy to control a biological population?&lt;/h3&gt;&#xA;&lt;p&gt;Compared with the conventional settings such as Linear-Quadratic-Gaussian (LQG) in control theory, the optimal control problems of stochastic reaction networks (SRNs) is quite different in the following sense:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nonlinearity due to many-body interactions&lt;/li&gt;&#xA;&lt;li&gt;Discrete state space and Poissonian randomness&lt;/li&gt;&#xA;&lt;li&gt;Nonnegativity constraints on the state and the control input&lt;/li&gt;&#xA;&lt;li&gt;Absorbing boundaries (e.g., extinction of a species)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;We found a trick to efficiently solve optimal control problems for SRNs. Consideration of the control cost function was a key to success. If the control cost function is carefully designed with information theoretic quantities, i.e., Kullback–Leibler divergence, the optimal control problems can be reduced to efficiently solvable linear equations. This trick applies to any SRNs with any objective function.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gradient Flow of Multicellular Population Dynamics</title>
-      <link>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</link>
+      <link>https://www.shoriguchi.me/projects/cellular_gradient_flow/</link>
       <pubDate>Mon, 05 Jun 2023 12:41:05 -0500</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/cellular_gradient_flow/</guid>
+      <guid>https://www.shoriguchi.me/projects/cellular_gradient_flow/</guid>
       <description>&lt;h3 id=&#34;how-should-cells-behave-to-achieve-a-population-level-goal&#34;&gt;How should cells behave to achieve a population-level goal?&lt;/h3&gt;&#xA;&lt;p&gt;I used the theory of generalized gradient flows to answer this question.&#xA;The resulting theoretical framework (cellular gradient flow) could explain single-cell-level rules (e.g., unidirectional differentiation) in multicellular systems as a result of population-level goal-directed behavior.&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-details-see-the-following-paper&#34;&gt;For details, see the following paper:&lt;/h4&gt;&#xA;&lt;p&gt;Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Cellular gradient flow structure linking single-cell-level rules and population-level dynamics, Phys. Rev. Research 5, L022052, (2023)&lt;/p&gt;</description>
     </item>
     <item>
       <title>AIR for Human</title>
-      <link>https://s-horiguchi.github.io/projects/air/</link>
+      <link>https://www.shoriguchi.me/projects/air/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/air/</guid>
+      <guid>https://www.shoriguchi.me/projects/air/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.air-human.com/&#34;&gt;Artificial Intelligence Research for Human (人工知能研究会 / AIR)&lt;/a&gt; is a community for artificial intelligence research led by students and young researchers.&lt;/p&gt;&#xA;&lt;p&gt;We received the Open Innovation Award from the Minister of Education, Culture, Sports, Science and Technology.&#xA;&lt;a href=&#34;https://www8.cao.go.jp/cstp/stmain/20220128oip.html&#34;&gt;第４回 日本オープンイノベーション大賞 内閣総理大臣賞等 受賞者の決定について（科学技術・イノベーション推進事務局 プレスリリース）&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Programming Tutorial</title>
-      <link>https://s-horiguchi.github.io/projects/programming/</link>
+      <link>https://www.shoriguchi.me/projects/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/programming/</guid>
+      <guid>https://www.shoriguchi.me/projects/programming/</guid>
       <description>&lt;p&gt;I organized a programming tutorial for scientists with two other members of &lt;a href=&#34;http://wings-abc.c.u-tokyo.ac.jp/&#34;&gt;WINGS-ABC&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/WINGS-ABC-programming-tutorial/tutorial-info&#34;&gt;Tutorial Webpage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sharing the code&lt;/li&gt;&#xA;&lt;li&gt;Environment setup (pip, pyenv, pipenv, Docker, VSCode)&lt;/li&gt;&#xA;&lt;li&gt;Parameter search and logging (mlflow)&lt;/li&gt;&#xA;&lt;li&gt;Version control&lt;/li&gt;&#xA;&lt;li&gt;Readability of the code&lt;/li&gt;&#xA;&lt;li&gt;Linter, Type checker&lt;/li&gt;&#xA;&lt;li&gt;Test, Unit test&lt;/li&gt;&#xA;&lt;li&gt;Reproducibility of Jupyter notebook&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We also prepared sample codes for a deeper understanding of our tutorial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Theory of The Immune System</title>
-      <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
+      <link>https://www.shoriguchi.me/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>&lt;h3 id=&#34;how-does-the-adaptive-immune-system-implement-learning-algorithms&#34;&gt;How does the adaptive immune system implement learning algorithms?&lt;/h3&gt;&#xA;&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://s-horiguchi.github.io/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
+      <guid>https://www.shoriguchi.me/projects/immune_learning/</guid>
+      <description>&lt;h3 id=&#34;how-does-the-adaptive-immune-system-implement-learning-algorithms&#34;&gt;How does the adaptive immune system implement learning algorithms?&lt;/h3&gt;&#xA;&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://www.shoriguchi.me/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OUXT Polaris</title>
-      <link>https://s-horiguchi.github.io/projects/ouxt/</link>
+      <link>https://www.shoriguchi.me/projects/ouxt/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/ouxt/</guid>
+      <guid>https://www.shoriguchi.me/projects/ouxt/</guid>
       <description>&lt;p&gt;OUXT Polaris is a team for the &lt;a href=&#34;https://robotx.org/&#34;&gt;Maritime RobotX Challenge&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I was the team leader on &lt;a href=&#34;https://robotx.org/programs/2018-robotx-challenge/&#34;&gt;2018 Challenge&lt;/a&gt; at Honolulu. We received &lt;a href=&#34;https://robotx.org/2018/12/15/2018-final-standings/&#34;&gt;judge&amp;rsquo;s special award&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We were funded by Leave a Nest Co., Ltd. :&#xA;&lt;a href=&#34;https://r.lne.st/2018/02/28/40th-deset/&#34;&gt;The Nippon Foundation Marine Engineering Award&lt;/a&gt;&#xA;(第40回リバネス研究費 日本財団海洋工学賞), and seven companies.&lt;/p&gt;&#xA;&lt;p&gt;We were also supported by crowdfunding at &lt;a href=&#34;https://academist-cf.com/projects/77?lang=ja&#34;&gt;academist&lt;/a&gt;&#xA;(波風の影響はどうするか？船の自動航行に挑む！)&lt;/p&gt;</description>
     </item>
   </channel>

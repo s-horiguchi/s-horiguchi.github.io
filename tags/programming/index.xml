@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Shuhei A. Horiguchi</title>
-    <link>https://s-horiguchi.github.io/tags/programming/</link>
+    <link>https://www.shoriguchi.me/tags/programming/</link>
     <description>Recent content in Programming on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Sep 2025 12:27:41 +0900</lastBuildDate>
-    <atom:link href="https://s-horiguchi.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.shoriguchi.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Tutorial</title>
-      <link>https://s-horiguchi.github.io/projects/programming/</link>
+      <link>https://www.shoriguchi.me/projects/programming/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/programming/</guid>
+      <guid>https://www.shoriguchi.me/projects/programming/</guid>
       <description>&lt;p&gt;I organized a programming tutorial for scientists with two other members of &lt;a href=&#34;http://wings-abc.c.u-tokyo.ac.jp/&#34;&gt;WINGS-ABC&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/WINGS-ABC-programming-tutorial/tutorial-info&#34;&gt;Tutorial Webpage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The goal of this tutorial was to introduce a variety of know-how which is very common in expert programmers but not known among scientists. We covered the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sharing the code&lt;/li&gt;&#xA;&lt;li&gt;Environment setup (pip, pyenv, pipenv, Docker, VSCode)&lt;/li&gt;&#xA;&lt;li&gt;Parameter search and logging (mlflow)&lt;/li&gt;&#xA;&lt;li&gt;Version control&lt;/li&gt;&#xA;&lt;li&gt;Readability of the code&lt;/li&gt;&#xA;&lt;li&gt;Linter, Type checker&lt;/li&gt;&#xA;&lt;li&gt;Test, Unit test&lt;/li&gt;&#xA;&lt;li&gt;Reproducibility of Jupyter notebook&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We also prepared sample codes for a deeper understanding of our tutorial.&lt;/p&gt;</description>
     </item>
   </channel>

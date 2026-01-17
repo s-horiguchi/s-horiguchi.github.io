@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Shuhei A. Horiguchi</title>
-    <link>https://s-horiguchi.github.io/tags/machine-learning/</link>
+    <link>https://www.shoriguchi.me/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Shuhei A. Horiguchi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Sep 2025 12:27:41 +0900</lastBuildDate>
-    <atom:link href="https://s-horiguchi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.shoriguchi.me/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arXiv 2022 BO</title>
-      <link>https://s-horiguchi.github.io/publications/arxiv2022_bo/</link>
+      <link>https://www.shoriguchi.me/publications/arxiv2022_bo/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-horiguchi.github.io/publications/arxiv2022_bo/</guid>
+      <guid>https://www.shoriguchi.me/publications/arxiv2022_bo/</guid>
       <description>&lt;p&gt;Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2211.00947&#34;&gt;https://arxiv.org/abs/2211.00947&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Theory of The Immune System</title>
-      <link>https://s-horiguchi.github.io/projects/immune_learning/</link>
+      <link>https://www.shoriguchi.me/projects/immune_learning/</link>
       <pubDate>Fri, 05 Jun 2020 12:41:05 -0500</pubDate>
-      <guid>https://s-horiguchi.github.io/projects/immune_learning/</guid>
-      <description>&lt;h3 id=&#34;how-does-the-adaptive-immune-system-implement-learning-algorithms&#34;&gt;How does the adaptive immune system implement learning algorithms?&lt;/h3&gt;&#xA;&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://s-horiguchi.github.io/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
+      <guid>https://www.shoriguchi.me/projects/immune_learning/</guid>
+      <description>&lt;h3 id=&#34;how-does-the-adaptive-immune-system-implement-learning-algorithms&#34;&gt;How does the adaptive immune system implement learning algorithms?&lt;/h3&gt;&#xA;&lt;p&gt;I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master&amp;rsquo;s thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in &lt;a href=&#34;https://www.shoriguchi.me/publications/jsmb2020/&#34;&gt;Annual Meeting of JSMB2020&lt;/a&gt;. The paper is still under preparation.&lt;/p&gt;&#xA;&lt;p&gt;Kato and Kobayashi proposed a model of the adaptive immune system based on the reinforcement learning theory (&lt;a href=&#34;https://doi.org/10.1103/PhysRevResearch.3.013222&#34;&gt;Phys. Rev. Research (2021)&lt;/a&gt;).&#xA;They supposed that the immune system solves the following sequential decision-making problem: take the most effective action (activate the most effective immunological pathway) by observing the current state (self-antigens and/or pathogen-derived antigens).&#xA;One of the crucial ideas was to regard the helper T-cell clone-size distribution as the learnable parameter of this input-output relation. Then, the Burnet&amp;rsquo;s clonal selection can be interpreted as the gradient descent of a loss function in a reinforcement learning algorithm.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
