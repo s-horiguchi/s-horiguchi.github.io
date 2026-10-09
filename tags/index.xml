@@ -1,145 +1,150 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Shuhei A. Horiguchi</title>
-    <link>https://www.shoriguchi.me/tags/</link>
-    <description>Recent content in Tags on Shuhei A. Horiguchi</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 13:22:27 +0900</lastBuildDate>
-    <atom:link href="https://www.shoriguchi.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Control Theory</title>
-      <link>https://www.shoriguchi.me/tags/control-theory/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/control-theory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reaction Network</title>
-      <link>https://www.shoriguchi.me/tags/reaction-network/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/reaction-network/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stochastic Process</title>
-      <link>https://www.shoriguchi.me/tags/stochastic-process/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/stochastic-process/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theory</title>
-      <link>https://www.shoriguchi.me/tags/theory/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/theory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Immune System</title>
-      <link>https://www.shoriguchi.me/tags/immune-system/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/immune-system/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gradient Flow</title>
-      <link>https://www.shoriguchi.me/tags/gradient-flow/</link>
-      <pubDate>Mon, 05 Jun 2023 12:41:05 -0500</pubDate>
-      <guid>https://www.shoriguchi.me/tags/gradient-flow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bayesian Optimization</title>
-      <link>https://www.shoriguchi.me/tags/bayesian-optimization/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/bayesian-optimization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>https://www.shoriguchi.me/tags/machine-learning/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Informatics</title>
-      <link>https://www.shoriguchi.me/tags/informatics/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/informatics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://www.shoriguchi.me/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://www.shoriguchi.me/tags/programming/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nervous System</title>
-      <link>https://www.shoriguchi.me/tags/nervous-system/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/nervous-system/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brain</title>
-      <link>https://www.shoriguchi.me/tags/brain/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/brain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Autonomous Vehicle</title>
-      <link>https://www.shoriguchi.me/tags/autonomous-vehicle/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/autonomous-vehicle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Maritime RobotX Challenge</title>
-      <link>https://www.shoriguchi.me/tags/maritime-robotx-challenge/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/maritime-robotx-challenge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In</title>
-      <link>https://www.shoriguchi.me/tags/in/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/in/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Techtags</title>
-      <link>https://www.shoriguchi.me/tags/techtags/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/techtags/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Used</title>
-      <link>https://www.shoriguchi.me/tags/used/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/used/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Website</title>
-      <link>https://www.shoriguchi.me/tags/website/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.shoriguchi.me/tags/website/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Shuhei A. Horiguchi</title>
+		<link>https://www.shoriguchi.me/tags/</link>
+		<description>Recent content in Tags on Shuhei A. Horiguchi</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 17 Jan 2026 16:45:30 +0900</lastBuildDate>
+		
+			<atom:link href="https://www.shoriguchi.me/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Control Theory</title>
+				<link>https://www.shoriguchi.me/tags/control-theory/</link>
+				<pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/control-theory/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reaction Network</title>
+				<link>https://www.shoriguchi.me/tags/reaction-network/</link>
+				<pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/reaction-network/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stochastic Process</title>
+				<link>https://www.shoriguchi.me/tags/stochastic-process/</link>
+				<pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/stochastic-process/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Theory</title>
+				<link>https://www.shoriguchi.me/tags/theory/</link>
+				<pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/theory/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Immune System</title>
+				<link>https://www.shoriguchi.me/tags/immune-system/</link>
+				<pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/immune-system/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gradient Flow</title>
+				<link>https://www.shoriguchi.me/tags/gradient-flow/</link>
+				<pubDate>Mon, 05 Jun 2023 12:41:05 -0500</pubDate>
+				<guid>https://www.shoriguchi.me/tags/gradient-flow/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bayesian Optimization</title>
+				<link>https://www.shoriguchi.me/tags/bayesian-optimization/</link>
+				<pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/bayesian-optimization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Machine Learning</title>
+				<link>https://www.shoriguchi.me/tags/machine-learning/</link>
+				<pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/machine-learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Informatics</title>
+				<link>https://www.shoriguchi.me/tags/informatics/</link>
+				<pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/informatics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Artificial Intelligence</title>
+				<link>https://www.shoriguchi.me/tags/artificial-intelligence/</link>
+				<pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/artificial-intelligence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Programming</title>
+				<link>https://www.shoriguchi.me/tags/programming/</link>
+				<pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/programming/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Nervous System</title>
+				<link>https://www.shoriguchi.me/tags/nervous-system/</link>
+				<pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/nervous-system/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Brain</title>
+				<link>https://www.shoriguchi.me/tags/brain/</link>
+				<pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/brain/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Autonomous Vehicle</title>
+				<link>https://www.shoriguchi.me/tags/autonomous-vehicle/</link>
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/autonomous-vehicle/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Maritime RobotX Challenge</title>
+				<link>https://www.shoriguchi.me/tags/maritime-robotx-challenge/</link>
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/maritime-robotx-challenge/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>In</title>
+				<link>https://www.shoriguchi.me/tags/in/</link>
+				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/in/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Techtags</title>
+				<link>https://www.shoriguchi.me/tags/techtags/</link>
+				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/techtags/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Used</title>
+				<link>https://www.shoriguchi.me/tags/used/</link>
+				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/used/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Website</title>
+				<link>https://www.shoriguchi.me/tags/website/</link>
+				<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://www.shoriguchi.me/tags/website/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
